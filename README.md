@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains documents, code, and analysis from my bachelor thesis, which was completed during in 2019-2020.
+This repository contains documents, code, and analysis from my bachelor thesis, which was completed during 2019-2020.
 
 ## Abstract
 
