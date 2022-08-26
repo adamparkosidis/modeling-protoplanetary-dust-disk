@@ -27,5 +27,7 @@ specifically, at the basic frequencies of the Attacama Large Millimeter Array (A
 SWIFT is designed to integrate a set of mutually gravitationally interacting bodies together with a group of test particles which feel the gravitational
 influence of the massive bodies but do not affect each other or the massive bodies
 
-![2D-image-disk](/graphs/230ConvThMRS.png)
+## Samples
+
+![2D-image-disk](/graphs/230ConvThMRS.png) { width: 200px; }
 ![2D-image-disk](/graphs/325ConvThMRS.png)
