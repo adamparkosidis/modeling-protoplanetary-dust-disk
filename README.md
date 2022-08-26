@@ -29,5 +29,5 @@ influence of the massive bodies but do not affect each other or the massive bodi
 
 ## Samples
 
-![2D-image-disk](/graphs/230ConvThMRS.png) { width: 200px; }
+![2D-image-disk](/graphs/230ConvThMRS.png =20x20) 
 ![2D-image-disk](/graphs/325ConvThMRS.png)
