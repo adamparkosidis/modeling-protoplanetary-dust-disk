@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains documents, code and analysis from my bachelor thesis.
+This repository contains documents, code, and analysis from my bachelor thesis, which was completed during in 2019-2020.
 
 ## Abstract
 
@@ -32,4 +32,3 @@ influence of the massive bodies but do not affect each other or the massive bodi
 ![2D-image-disk_initially](/graphs/TotalTP_Initial.png)
 ![2D-image-disk](/graphs/TotalTP10Myears_xyz.png)
 ![2D-image-disk_flux_density](/graphs/230ConvThMRS.png) 
-![disk-surface-density](/graphs/SurfDens.png) 
