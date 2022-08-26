@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains documents, code and analysis for my bachelor project.
+This repository contains documents, code and analysis from my bachelor thesis.
 
 ## Abstract
 
@@ -26,3 +26,6 @@ specifically, at the basic frequencies of the Attacama Large Millimeter Array (A
 [SWIFT](https://www.boulder.swri.edu/~hal/swift.html) was used to numerically integrate the particle trajectories.
 SWIFT is designed to integrate a set of mutually gravitationally interacting bodies together with a group of test particles which feel the gravitational
 influence of the massive bodies but do not affect each other or the massive bodies
+
+![2D-image-disk](/graphs/230ConvThMRS.png)
+![2D-image-disk](/graphs/325ConvThMRS.png)
