@@ -29,5 +29,7 @@ influence of the massive bodies but do not affect each other or the massive bodi
 
 ## Samples
 
-![2D-image-disk](/graphs/230ConvThMRS.png =20x20) 
-![2D-image-disk](/graphs/325ConvThMRS.png)
+![2D-image-disk_initially](/graphs/TotalTP_Initial.png)
+![2D-image-disk](/graphs/TotalTP10Myears_xyz.png)
+![2D-image-disk_flux_density](/graphs/230ConvThMRS.png) 
+![disk-surface-density](/graphs/SurfDens.png) 
